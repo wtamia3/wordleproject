@@ -34,18 +34,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNkY2I3cDgycG5vdWFmdzF6YXY4cjFiZTcwancwb3llZ3pidWg2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vM4c5p0zytgwrkefzh/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[ScreenToGif](https://www.screentogif.com/) for Windows
+GIF created with 
+[ScreenToGif](https://www.screentogif.com/) for Windows and
 https://giphy.com/
-## Notes
 
-Describe any challenges encountered while building the app.
 
-## License
-
-    Copyright [2024] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
