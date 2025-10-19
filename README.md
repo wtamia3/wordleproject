@@ -32,7 +32,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNkY2I3cDgycG5vdWFmdzF6YXY4cjFiZTcwancwb3llZ3pidWg2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vM4c5p0zytgwrkefzh/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![preworkdemo (-1)](https://github.com/user-attachments/assets/5260d884-3f79-46fd-ad37-72fe571d9513)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with 
 [ScreenToGif](https://www.screentogif.com/) for Windows and
